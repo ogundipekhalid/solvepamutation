@@ -1,0 +1,15 @@
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.AssemblyInfo.cs
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\solvepamutation\bin\Debug\net6.0\solvepamutation.exe
+C:\Users\owner\Desktop\solvepamutation\bin\Debug\net6.0\solvepamutation.deps.json
+C:\Users\owner\Desktop\solvepamutation\bin\Debug\net6.0\solvepamutation.runtimeconfig.json
+C:\Users\owner\Desktop\solvepamutation\bin\Debug\net6.0\solvepamutation.dll
+C:\Users\owner\Desktop\solvepamutation\bin\Debug\net6.0\solvepamutation.pdb
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.dll
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\refint\solvepamutation.dll
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.pdb
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\solvepamutation.genruntimeconfig.cache
+C:\Users\owner\Desktop\solvepamutation\obj\Debug\net6.0\ref\solvepamutation.dll
